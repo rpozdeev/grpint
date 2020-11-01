@@ -1,0 +1,1 @@
+module "https://gitlab.m2.ru/pozdeevri/gprint"
