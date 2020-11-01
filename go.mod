@@ -1,1 +1,1 @@
-module "https://gitlab.m2.ru/pozdeevri/gprint"
+module "https://github.com/pozdeevri/gprint"
